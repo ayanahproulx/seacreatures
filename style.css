@@ -1,0 +1,198 @@
+.introphotos{list-style: none;
+padding-left: 0;
+padding-right: 0;
+text-align: center;
+display: inline;
+position: relative;
+}
+h1 {font-size: 7em;
+text-align: center;
+display: block;
+color: #cf6;
+font-family: sans-serif;
+text-transform: uppercase;
+
+}
+body{
+  background: linear-gradient(0deg, black, rgba(0,0,51,1) );
+  font: Tahoma;
+  font-family: sans-serif;
+}
+.summary-group {
+  font-size: 6em;
+  text-align: center;
+  display:inline;
+  color: #cf6;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+.intro1 {
+  font-size: 20px;
+  color: #ccc;
+  text-align: left;
+  letter-spacing: 3px;
+
+}
+
+.intro2 {
+  font-size:20px;
+  color: #ccc;
+  text-align: left;
+  letter-spacing: 3px;
+}
+
+.introphotos ul {
+  display:inline-block;;
+text-align: center;}
+
+  .introphotos figure {
+    border-radius: 50%;
+    display: inline-block;
+    display: inline;
+  }
+.contents {
+  color: #cf6;
+  font-size: 1em;
+  text-align: center;
+  margin: auto;
+  display: block;
+  list-style: none;
+}
+
+
+  .introphotos img {
+    max-width: 20%;
+    width: auto;
+    margin: auto;
+  }
+
+  .lackoflife {
+    font-size: 1em;
+    color: #cf6;
+    text-align: center;
+    margin: auto;
+    display: block;
+    list-style: none;
+  }
+
+/*menu details below*/
+
+  }
+
+  .visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  text-align: center;
+  white-space: nowrap;
+  padding: 0;
+  border: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  margin: -1px;
+  overflow: hidden;
+  }
+
+
+nav summary {
+  visibility: hidden;
+  cursor: pointer;
+  }
+
+nav .summary-group {
+  float: none;;
+  visibility: visible;
+  }
+
+
+nav .summary-group b {
+  display: inline-block;
+  text-transform: uppercase;
+  vertical-align: middle;
+  font-size: 24px;
+  border-style: dotted;
+  border-color: #153;
+  }
+
+nav ol {
+  list-style: none;
+  padding-left: 0;
+  margin: 1em 0 -1em;
+  clear: both;
+  text-transform: uppercase;
+  }
+
+  nav a {
+    display: block;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 1em;
+    font-size: 1em;
+    color: #cf6;
+    margin: 0 -1em;
+    }
+
+
+/*lackoflight*/
+.photo-6 {
+  text-align: center;
+}
+.headerlight {
+  font-size: 30px;
+  color: #cf6;
+  text-align: center;
+  text-transform: uppercase
+}
+
+.lackoflight {
+  font-size: 25px;
+  line-height: 35px;
+  color: #ccc;
+  text-align: left;
+}
+
+
+/*lackofresources*/
+.headerresourcesbig {
+  font-size: 40px;
+  color: #cf6;
+  text-align: center;
+  letter-spacing: 5px;
+  line-height: 50px;
+}
+.headerresources {
+  font-size: 25px;
+  color: #cf6;
+  text-align: center;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+line-height: 35px; }
+
+  .lack_of_resorucesintro {
+    font-size: 20px;
+    line-height: 35px;
+    color: #ccc;
+    text-align: left;
+  }
+
+  /*barometric*/
+
+  .barometric {
+    font-size: 20px;
+    line-height: 35px;
+    color: #ccc;
+    text-align: left;
+  }
+
+/*deepsea*/
+  .deepsea
+  {
+    font-size: 20px;
+    line-height: 35px;
+    color: #ccc;
+    text-align: left;
+  }
+.photo-5 {
+  text-align:
+}
